@@ -31,7 +31,7 @@ function ChatWindow() {
     }, [messages]);
 
     return (
-        <div className="flex flex-col w-full max-w-md h-[90vh] border border-gray-300 rounded-lg bg-white shadow-md">
+        <div className="flex flex-col w-full max-w-md h-[80vh] border border-gray-300 rounded-lg bg-white shadow-md">
             <main className="flex-1 overflow-y-auto p-4 space-y-3">
                 {messages.map((msg, index) =>
                     msg.sender === "ai" ? (
