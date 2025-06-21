@@ -14,7 +14,7 @@ A responsive and modern chatbot UI built using **React**, **Tailwind CSS**, and 
 
 ##  Tech Stack
 
-- **React** (Vite or CRA)  
+- **React** (Vite)  
 - **Tailwind CSS**  
 - **ShadCN UI**  
 - **React Icons**  
