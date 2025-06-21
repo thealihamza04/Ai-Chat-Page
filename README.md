@@ -1,6 +1,8 @@
 #  AI Chatbot Frontend
 
 A responsive and modern chatbot UI built using **React**, **Tailwind CSS**, and **ShadCN UI**.
+![image](https://github.com/user-attachments/assets/2aaa8467-d467-4758-bc7a-b59f7b25fc58)
+
 
 ##  Features
 
