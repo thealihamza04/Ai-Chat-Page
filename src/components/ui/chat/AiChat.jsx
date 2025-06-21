@@ -83,7 +83,7 @@ const MessageRight = ({ text }) => (
 );
 
 export default function ChatPage() {
-    const [isOpen, setIsOpen] = useState(true);
+    const [isOpen, setIsOpen] = useState(false);
 
     return (
         <div>
